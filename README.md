@@ -19,10 +19,3 @@
 1. 打开日历应用；
 2. 点击应用下方`日历`字样，点击左下角添加日历；
 3. 选择添加订阅日历，粘贴上订阅链接订阅即可。
-
-> 针对中国大陆的网络情况，推荐使用反向代理。可用性自行测试喵～
-> - https://gh.scy.ink/https://raw.githubusercontent.com/WillSat/fixcalendar/refs/heads/main/cn.ics
-> - https://gh.qninq.cn/https://raw.githubusercontent.com/WillSat/fixcalendar/refs/heads/main/cn.ics
-> - https://hub.gitmirror.com/https://raw.githubusercontent.com/WillSat/fixcalendar/refs/heads/main/cn.ics
-> - https://ghproxy.monkeyray.net/https://raw.githubusercontent.com/WillSat/fixcalendar/refs/heads/main/cn.ics
-> - https://gh.b52m.cn/https://raw.githubusercontent.com/WillSat/fixcalendar/refs/heads/main/cn.ics
