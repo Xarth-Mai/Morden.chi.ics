@@ -35,7 +35,7 @@
 > 订阅地址1：Github Pages：https://willsat.github.io/fixcalendar/cn.ics  
 > 订阅地址2：Github Raw：https://raw.githubusercontent.com/WillSat/fixcalendar/refs/heads/main/cn.ics  
 > *由于大陆 GitHub Pages 遭到 DNS 污染，可能会订阅失败。故提供 Cloudflare Pages 备份*  
-> 订阅地址3：https://84ff02f4.fixcalendar.pages.dev/cn.ics  
+> 订阅地址3：https://fixcalendar.pages.dev/cn.ics  
 
 1. 打开日历应用；
 2. 点击应用下方 `日历` 字样，点击左下角添加日历；
