@@ -1,14 +1,10 @@
-# fixcalendar
+# Morden.chi.ics
 
 提供 `.ics` 日历订阅文件，用于补充 Apple 设备日历缺失的节假日。
 
-补充的多是大陆官方没有确立但民间广泛认同的节假日。
-
-如信息有误，欢迎随时发邮件~~骚扰~~提醒我 waitwill@icloud.com (/≧▽≦)/
+补充民间年轻群体广泛认同的国际节日。
 
 ## 已补充节假日列表
-
-### 国际/西方节日
 
 - **母亲节**：5月的第2个星期日
 - **父亲节**：6月的第3个星期日
@@ -21,21 +17,9 @@
 - **平安夜**：12月24日
 - **圣诞节**：12月25日
 
-### 传统节日
-
-- **中元节**：农历7月15日（2025年9月6日）
-- **腊八节**：农历12月8日（2026年1月26日）
-- **北小年**：农历12月23日（2026年2月10日）
-- **南小年**：农历12月24日（2026年2月11日）
-- **龙抬头**：农历2月2日（2026年3月20日）
-
-## 食用方法（以 iOS 日历举例，其他平台同理）
-
-> *以下订阅地址内容相同，选取一个可用的就好*  
-> 订阅地址1：Github Pages：https://willsat.github.io/fixcalendar/cn.ics  
-> 订阅地址2：Github Raw：https://raw.githubusercontent.com/WillSat/fixcalendar/refs/heads/main/cn.ics  
-> *由于大陆 GitHub Pages 遭到 DNS 污染，可能会订阅失败。故提供 Cloudflare Pages 备份*  
-> 订阅地址3：https://fixcalendar.pages.dev/cn.ics  
+## 食用方法
+  
+订阅地址：[Github Raw](https://raw.githubusercontent.com/Xarth-Mai/Morden.chi.ics/refs/heads/main/morden.ics)
 
 1. 打开日历应用；
 2. 点击应用下方 `日历` 字样，点击左下角添加日历；
